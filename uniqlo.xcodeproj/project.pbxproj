@@ -12,6 +12,7 @@
 		F422FF80206BC72300E19703 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F422FF7E206BC72300E19703 /* Main.storyboard */; };
 		F422FF82206BC72300E19703 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F422FF81206BC72300E19703 /* Assets.xcassets */; };
 		F422FF85206BC72300E19703 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F422FF83206BC72300E19703 /* LaunchScreen.storyboard */; };
+		F422FF8D206BD32300E19703 /* uniqloViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F422FF8C206BD32300E19703 /* uniqloViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F422FF81206BC72300E19703 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F422FF84206BC72300E19703 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F422FF86206BC72300E19703 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F422FF8C206BD32300E19703 /* uniqloViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = uniqloViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				F422FF7A206BC72300E19703 /* AppDelegate.swift */,
 				F422FF7C206BC72300E19703 /* ViewController.swift */,
 				F422FF7E206BC72300E19703 /* Main.storyboard */,
+				F422FF8C206BD32300E19703 /* uniqloViewController.swift */,
 				F422FF81206BC72300E19703 /* Assets.xcassets */,
 				F422FF83206BC72300E19703 /* LaunchScreen.storyboard */,
 				F422FF86206BC72300E19703 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				F422FF7D206BC72300E19703 /* ViewController.swift in Sources */,
 				F422FF7B206BC72300E19703 /* AppDelegate.swift in Sources */,
+				F422FF8D206BD32300E19703 /* uniqloViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
