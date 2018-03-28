@@ -17,10 +17,10 @@ class uniqloViewController: UIViewController {
     var total:Int = 0
     
     @IBOutlet weak var totalLabel: UILabel!
-    @IBAction func totalButton(_ sender: Any) {
-        total = third + second + first
-        totalLabel.text = "\(total)"
-    }
+    //@IBAction func totalButton(_ sender: Any) {
+        //total = third + second + first
+        //totalLabel.text = "\(total)"
+    //}
     @IBOutlet weak var thirdLabel: UILabel!
     @IBOutlet weak var secondLabel: UILabel!
     @IBOutlet weak var firstLabel: UILabel!
